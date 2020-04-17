@@ -1,4 +1,6 @@
 ﻿using System;
+using PalindromeChecker;
+using System.Collections.Generic;
 
 namespace PalindromeChecker
 {
@@ -6,7 +8,7 @@ namespace PalindromeChecker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World");
         }
     }
 }
